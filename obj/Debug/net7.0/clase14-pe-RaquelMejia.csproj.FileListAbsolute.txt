@@ -1,0 +1,14 @@
+C:\Users\Isaí Meléndez\Desktop\Clase14\clase14-pe-RaquelMejia\bin\Debug\net7.0\clase14-pe-RaquelMejia.exe
+C:\Users\Isaí Meléndez\Desktop\Clase14\clase14-pe-RaquelMejia\bin\Debug\net7.0\clase14-pe-RaquelMejia.deps.json
+C:\Users\Isaí Meléndez\Desktop\Clase14\clase14-pe-RaquelMejia\bin\Debug\net7.0\clase14-pe-RaquelMejia.runtimeconfig.json
+C:\Users\Isaí Meléndez\Desktop\Clase14\clase14-pe-RaquelMejia\bin\Debug\net7.0\clase14-pe-RaquelMejia.dll
+C:\Users\Isaí Meléndez\Desktop\Clase14\clase14-pe-RaquelMejia\bin\Debug\net7.0\clase14-pe-RaquelMejia.pdb
+C:\Users\Isaí Meléndez\Desktop\Clase14\clase14-pe-RaquelMejia\obj\Debug\net7.0\clase14-pe-RaquelMejia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaí Meléndez\Desktop\Clase14\clase14-pe-RaquelMejia\obj\Debug\net7.0\clase14-pe-RaquelMejia.AssemblyInfoInputs.cache
+C:\Users\Isaí Meléndez\Desktop\Clase14\clase14-pe-RaquelMejia\obj\Debug\net7.0\clase14-pe-RaquelMejia.AssemblyInfo.cs
+C:\Users\Isaí Meléndez\Desktop\Clase14\clase14-pe-RaquelMejia\obj\Debug\net7.0\clase14-pe-RaquelMejia.csproj.CoreCompileInputs.cache
+C:\Users\Isaí Meléndez\Desktop\Clase14\clase14-pe-RaquelMejia\obj\Debug\net7.0\clase14-pe-RaquelMejia.dll
+C:\Users\Isaí Meléndez\Desktop\Clase14\clase14-pe-RaquelMejia\obj\Debug\net7.0\refint\clase14-pe-RaquelMejia.dll
+C:\Users\Isaí Meléndez\Desktop\Clase14\clase14-pe-RaquelMejia\obj\Debug\net7.0\clase14-pe-RaquelMejia.pdb
+C:\Users\Isaí Meléndez\Desktop\Clase14\clase14-pe-RaquelMejia\obj\Debug\net7.0\clase14-pe-RaquelMejia.genruntimeconfig.cache
+C:\Users\Isaí Meléndez\Desktop\Clase14\clase14-pe-RaquelMejia\obj\Debug\net7.0\ref\clase14-pe-RaquelMejia.dll
